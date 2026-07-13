@@ -38,7 +38,7 @@ This project is licsesed under the [MT Licesnce](LICENSCE) You are free to modif
 
 ## About me
 
-Hi there! I'm Naumaan A Malik. I'm a BSC Computer Science Data Science Graduate looking to devolop my skils sets for both academic and employment purposes
+Hi there! I'm Naumaan A Malik. I'm a BSC Computer Science Data Science Graduate looking to devolop my skill sets.
 
 
 
